@@ -39,11 +39,27 @@
             }
         },
         {
+            "Key": "091d512d-14c0-42be-8abc-1fd2d8a0fa29",
+            "Value": {
+                "id": "de9e3980-68ee-4ba4-8e91-95217fe9d0d9",
+                "resourcePath": "rooms\\rm_title\\rm_title.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "160b8e2a-163b-42f8-a245-4c9e11cd42f9",
             "Value": {
                 "id": "84255ce4-08d6-4e94-9901-261b13a0a1b1",
                 "resourcePath": "views\\160b8e2a-163b-42f8-a245-4c9e11cd42f9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1a233d78-216c-40a1-8992-2f4a65d2ea26",
+            "Value": {
+                "id": "bc0e9c5d-bdf5-4d5b-ace6-92e604e3f13f",
+                "resourcePath": "sprites\\titleText\\titleText.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -66,7 +82,7 @@
             "Key": "28616b4d-1d9f-4b32-8bde-d53b4579492c",
             "Value": {
                 "id": "74b42fa2-d6b2-4f72-9904-a3a0a6cb3103",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_game\\rm_game.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -140,6 +156,14 @@
                 "id": "3b714577-e08e-4e44-9566-9672b1950f7c",
                 "resourcePath": "views\\6b5f0914-f3d9-4834-acba-52ed851e3f4a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6d829d78-1c60-4413-a729-c745d417ba1f",
+            "Value": {
+                "id": "7e151798-4411-4950-9ebf-0035f2545bc2",
+                "resourcePath": "sprites\\spr_title\\spr_title.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -252,6 +276,14 @@
                 "id": "ccd4607a-9ce3-4c1d-908a-15e0806c626d",
                 "resourcePath": "sprites\\spr_background\\spr_background.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f911faa5-06d2-437d-8002-d6e072fa9bfe",
+            "Value": {
+                "id": "4c3f42ad-e885-4925-aaee-011aeba2bb9e",
+                "resourcePath": "sounds\\snd_death\\snd_death.yy",
+                "resourceType": "GMSound"
             }
         }
     ],

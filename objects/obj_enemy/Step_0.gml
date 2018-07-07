@@ -9,5 +9,11 @@ image_angle = direction;
 
 if (hp)<=0 {
 	with(obj_score) thescore = thescore +5;
-	instance_destroy();
+	
+	
+	//death sound
+	//sound, priority level,  loop
+	audio_play_sound(snd_death, random_range(0.8, 1.2), false);
+	audio_play_sound(snd_death, 0, false);//reset the level. Does this really work?
+	instance_destroy();//remove instance from screen
 }
